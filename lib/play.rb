@@ -39,5 +39,5 @@ end
 
 def play(array)
   turn = 0
-  puts turn += 1 until turn == 8
+  puts turn += 1 until turn == 9
 end
