@@ -38,6 +38,6 @@ end
 # Define your play method below
 def play(board)
   turn
-counter = 1
-until counter == 20
-counter += 1
+  counter = 1
+  until counter == 20
+  counter += 1
