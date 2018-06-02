@@ -38,4 +38,5 @@ end
 # Define your play method below
 def play(board)
 counter = 0
+counter = counter + 1
 loop do turn 
