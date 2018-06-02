@@ -39,5 +39,5 @@ end
 
 def play(board)
   i = 0
-  puts turn += 1 until i == 9
+  puts turn += 1 until i == 8
 end
