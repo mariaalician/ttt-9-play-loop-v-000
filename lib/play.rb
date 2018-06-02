@@ -38,6 +38,6 @@ end
 # Define your play method below
 
 def play(board)
-  turn = 0
-  puts turn += 1 until turn == 9
+  i = 0
+  puts turn += 1 until i == 9
 end
