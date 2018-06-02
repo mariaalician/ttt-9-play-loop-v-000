@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 def play(board)
+  turn
 counter = 1
-loop do 
-counter = counter + 1
-turn
+until counter == 20
+counter += 1
