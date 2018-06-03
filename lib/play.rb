@@ -38,5 +38,7 @@ end
 # Define your play method below
 
 def play(board)
+  turn = 1
   turn
+  turn += 1 until turn == 8
 end
